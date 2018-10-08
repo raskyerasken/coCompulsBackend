@@ -1,0 +1,14 @@
+C:\Users\Fábio\Documents\GitHub\PetShop\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.1\PetShop.Infrastructure.Static.Data.deps.json
+C:\Users\Fábio\Documents\GitHub\PetShop\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.1\PetShop.Infrastructure.Static.Data.dll
+C:\Users\Fábio\Documents\GitHub\PetShop\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.1\PetShop.Infrastructure.Static.Data.pdb
+C:\Users\Fábio\Documents\GitHub\PetShop\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.1\PetShop.Core.dll
+C:\Users\Fábio\Documents\GitHub\PetShop\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.1\PetShop.Core.Entity.dll
+C:\Users\Fábio\Documents\GitHub\PetShop\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.1\PetShop.Core.Entity.pdb
+C:\Users\Fábio\Documents\GitHub\PetShop\PetShop.Infrastructure.Static.Data\bin\Debug\netcoreapp2.1\PetShop.Core.pdb
+C:\Users\Fábio\Documents\GitHub\PetShop\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.1\PetShop.Infrastructure.Static.Data.csprojAssemblyReference.cache
+C:\Users\Fábio\Documents\GitHub\PetShop\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.1\PetShop.Infrastructure.Static.Data.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\GitHub\PetShop\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.1\PetShop.Infrastructure.Static.Data.AssemblyInfoInputs.cache
+C:\Users\Fábio\Documents\GitHub\PetShop\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.1\PetShop.Infrastructure.Static.Data.AssemblyInfo.cs
+C:\Users\Fábio\Documents\GitHub\PetShop\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.1\PetShop.Infrastructure.Static.Data.csproj.CopyComplete
+C:\Users\Fábio\Documents\GitHub\PetShop\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.1\PetShop.Infrastructure.Static.Data.dll
+C:\Users\Fábio\Documents\GitHub\PetShop\PetShop.Infrastructure.Static.Data\obj\Debug\netcoreapp2.1\PetShop.Infrastructure.Static.Data.pdb
